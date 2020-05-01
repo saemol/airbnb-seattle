@@ -1,4 +1,4 @@
-# Analysis of AirBnB data from Seattle
+# Analysis of Airbnb data from Seattle
 
 This project was part of an assignment in Udacity's Nanodegree program in Data Science. My objective has been to
 analyse the prices of listings in different neighbourhoods of Seattle using visualizations, and to perform 
@@ -13,7 +13,7 @@ XGBoost: conda install -c anaconda py-xgboost
 
 ## Project Motivation
 
-Using AirBnB data from Seattle to answer the following questions:
+Using Airbnb data from Seattle to answer the following questions:
 
 * 1. What are the prices and how many listings are there for different parts of Seattle?
 
@@ -38,7 +38,7 @@ The results are available [here](https://github.com/saemol/airbnb-seattle/blob/m
 
 ## Acknowledgments
 
-* Kaggle and AirBnB for the data
+* Kaggle and Airbnb for the data
 * Udacity for the course
 
 
