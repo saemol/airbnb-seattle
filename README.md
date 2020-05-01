@@ -40,6 +40,6 @@ The results are available [here](https://github.com/saemol/airbnb-seattle/blob/m
 
 * Kaggle and Airbnb for the data
 
-*Udacity for the course
+* Udacity for the course
 
 
