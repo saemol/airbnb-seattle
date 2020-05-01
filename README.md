@@ -1,5 +1,4 @@
-
-#Analysis of AirBnB data from Seattle
+# Analysis of AirBnB data from Seattle
 
 This project was part of an assignment in Udacity's Nanodegree program in Data Science. My objective has been to
 analyse the prices of listings in different neighbourhoods of Seattle using visualizations, and to perform 
@@ -7,12 +6,12 @@ regression analysis using machine learning to predict the price (independent var
 features (dependent variables).
 
 
-##Installation
+## Installation
 
 Python 3 and Anaconda.
 XGBoost: conda install -c anaconda py-xgboost
 
-### Project Motivation
+## Project Motivation
 
 Using AirBnB data from Seattle to answer the following questions:
 
@@ -27,7 +26,6 @@ Using AirBnB data from Seattle to answer the following questions:
 
 1 notebook created in jupyter lab. File name: AirBnB Seattle FINAL.ipynb
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 ## Authors
 
 * **Saeed Molavi** https://github.com/saemol
