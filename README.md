@@ -1,5 +1,5 @@
 
-# Analysis of AirBnb data from Seattle
+# Analysis of Airbnb data from Seattle
 
 This project was part of an assignment in Udacity's Nanodegree program in Data Science. My objective has been to
 analyse the prices of listings in different neighbourhoods of Seattle using visualizations, and to perform 
